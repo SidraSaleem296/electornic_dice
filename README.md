@@ -1,7 +1,7 @@
 # 🎲 Electronic Dice Project 🎲
 **See the vedio here**(VID-20220702-WA0012 file)
 
-![Electornic Dice](./edice.png)
+![Electornic Dice](./edice1.png)
 
 Welcome to the **Electronic Dice** project repository! 🎉
 
